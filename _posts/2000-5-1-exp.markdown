@@ -2,10 +2,14 @@
 layout: default
 img: dna.png
 category: Experiences
-title: "Molecular Biology Bioinformatic Scientist"
+title: "Experience"
 description: |
 ---
 
 * __2016 – 2017__
-* *Biogenetika*
-* Conduct laboratory research in the areas of single nucleotide polymorphisms, DNA mutations, exomes sequencing and metagenomics. This involves data collection, DNA isolation, analysis and interpretation of results, including next generation sequencing data, bioinformatics analysis and writing reports.
+* *Field Crew Intern*
+* Stuff about when I was at NWERC
+
+* __2016 – 2017__
+* *Volunteer*
+* Stuff about when I was at NHMLA
