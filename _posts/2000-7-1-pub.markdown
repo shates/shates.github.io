@@ -2,10 +2,10 @@
 layout: default
 img: 
 category: Publications
-title: "List of Publications"
+title: "Publications"
 description: |
 ---
 
-- [ResearchGate](https://www.researchgate.net/profile/Daniela_Cassol)
-- [GoogleScholar](https://scholar.google.com/citations?user=SJKCmboAAAAJ&hl=en)
-- [Complete list of publications](img/publication.pdf)
+- [ResearchGate](https://www.researchgate.net/profile/Tessa_Shates)
+- [GoogleScholar](https://scholar.google.com/citations?user=6pMXws4AAAAJ&hl=en)
+
