@@ -2,7 +2,7 @@
 layout: default
 img: rice.JPG
 category: Education
-title: Ecology and Evolutionary Biology B.S.
+title: Bachelor's in Ecology and Evolutionary Biology 
 description: |
 ---
 
