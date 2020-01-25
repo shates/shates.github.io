@@ -3,12 +3,11 @@ layout: default
 img: phd.JPG
 category: Education
 title: PhD in Entomology
-description: 2012-Present
+description: 2016-Present
 ---
 
-* __2012 - 2016__
-* Federal University of Rio de Janeiro, Rio De Janeiro, Brazil
-* The global study of differentially regulated transcriptome in the response and tolerance pathway to the drought stress in castor bean (*Ricinus communis*)
-* Advisor: Dr. Gilberto Sachetto-Martins
-* Scholarship from: CNPq and FAPERJ
+* __2016 - Present__
+* University of California, Riverside
+* my topic (*this code makes it italicized*)
+* Advisor: Dr. Kerry Mauck
  
