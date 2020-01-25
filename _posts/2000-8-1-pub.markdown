@@ -1,0 +1,11 @@
+---
+layout: default
+img: 
+category: Skills
+title: "Skills"
+description: |
+---
+
+- [ResearchGate](https://www.researchgate.net/profile/Tessa_Shates)
+- [GoogleScholar](https://scholar.google.com/citations?user=6pMXws4AAAAJ&hl=en)
+
