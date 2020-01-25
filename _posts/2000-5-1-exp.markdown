@@ -1,6 +1,6 @@
 ---
 layout: default
-img: oregon.jpg
+img: oreg.png
 category: Experiences
 title: "Experience"
 description: |
