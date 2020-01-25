@@ -2,13 +2,14 @@
 layout: default
 img: rice.JPG
 category: Education
-title: Bachelor's in Biological Sciences
+title: Ecology and Evolutionary Biology B.S.
 description: |
 ---
 
-* __2005 - 2010__
-* Federal University of Pelotas, Pelotas, Brazil
-* Advisor: Dr. Marcos Antonio Bacarin
-* Scholarship from: FAPERGS and CNPq
+* __2011 - 2015__
+* University of California, Irvine
+* Advisors: Dr. Sergio Rasmann and Dr. Kailen Mooney
+* Research topic: Here's some stuff about my undergrad projs. 
+* Minor: Anthropology
 
 
