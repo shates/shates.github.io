@@ -6,6 +6,8 @@ title: "Skills"
 description: |
 ---
 
-- [ResearchGate](https://www.researchgate.net/profile/Tessa_Shates)
-- [GoogleScholar](https://scholar.google.com/citations?user=6pMXws4AAAAJ&hl=en)
+- Chemical ecology (minor skills)
+- Molecular skills 
+- Field skills 
+- Languages 
 
