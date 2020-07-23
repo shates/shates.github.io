@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 
+img: anza.png
 category: Skills
 title: "Skills"
 description: |
