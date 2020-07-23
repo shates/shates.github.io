@@ -6,8 +6,15 @@ title: "Skills"
 description: |
 ---
 
-- Chemical ecology (minor skills)
-- Molecular skills 
-- Field skills 
-- Languages 
+
+* Molecular/wet lab skills
+- DNA & RNA extractions (solvent and column based), reverse transcription, PCR, gel electrophoresis, primer design, Library prep for sequencing. 
+* Bioinformatics
+- Analyzing sequencing results using the Galaxy Platform and phylogenetic analyses using Qiagen CLC Main Bench. Some experience with MEGAX for analyses. 
+* Field skills 
+- GPS, plant and insect identification, trained in wilderness first aid, insect trap techniques (yellow sticky cards, pitfall, pan traps, and vacuum sampling). 
+* Languages: English (primary), Russian (conversation), and Spanish (conversation and written)
+* Chemical ecology
+- experience with gas chromatography - mass spectrometry, compound identification, and sample preparation; understanding of principles of HPLC and GC.  
+
 
