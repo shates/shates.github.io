@@ -16,6 +16,7 @@ description: |
 4. Statistics & coding
 - Competent with basic analyses in R 
 - Able to create high quality maps and figures (tables, plots) using R 
-5.  Chemical ecology
+5.  Chemical ecology & animal behavior
 - experience with gas chromatography - mass spectrometry, compound identification, and sample preparation; understanding of principles of HPLC and GC.  
+- experienced with electrical penetration graphing technique for aphid-feeding behavior analysis, able to tether aphids and psyllids for technique, whiteflies a work in progress. 
 6. Languages: English (primary), Russian (conversation), and Spanish (conversation and written)
