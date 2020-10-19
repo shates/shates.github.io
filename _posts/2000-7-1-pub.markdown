@@ -1,6 +1,6 @@
 ---
 layout: default
-img: 
+img: aphids.jpg
 category: Publications
 title: "Published works & and in preparation"
 description: |
