@@ -2,7 +2,7 @@
 layout: default
 img: oreg.png
 category: Experiences
-title: "Experience"
+title: "Experience outside of academia"
 description: |
 ---
 
