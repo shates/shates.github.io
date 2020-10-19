@@ -8,6 +8,7 @@ description: 2016-Present
 
 * __2016 - Present__
 * University of California, Riverside
-* my topic (*this code makes it italicized*)
+* Doctoral Program in Entomology
+* *Viruses in native California perennial plants: advancing virus ecology by developing new study systems for manipulative experiments.*
 * Advisor: Dr. Kerry Mauck
  
