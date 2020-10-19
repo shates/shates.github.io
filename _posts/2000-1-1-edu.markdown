@@ -14,7 +14,7 @@ description: 2016-Present
 
 
 My research at UCR is composed of three major themes, each of which have contributed to my field, molecular, and analytical skills as a scientist: 
-1. Virus discovery  
-2. Epidemiology studies of a crop-associated virus in native, perennial plants  
-3. Experiments on virus effects on plant health and insect behavior  
+1. Virus discovery *quickly describe what this means*  
+2. Epidemiology studies of a crop-associated virus in native, perennial plants  *quickly describe what this means*  
+3. Experiments on virus effects on plant health and insect behavior  *quickly describe what this means*  
  
