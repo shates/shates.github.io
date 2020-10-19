@@ -16,6 +16,7 @@ description: |
 4. Statistics & coding
 - Competent with basic analyses in R 
 - Able to create high quality maps and figures (tables, plots) using R 
+- Learning interactive data and plots through [Shiny](https://shiny.rstudio.com/). Example from September 2020 [here](https://tshates.shinyapps.io/sep2020figures/).  
 5.  Chemical ecology & animal behavior
 - experience with gas chromatography - mass spectrometry, compound identification, and sample preparation; understands principles of HPLC and GC.  
 - experienced with electrical penetration graphing technique for aphid-feeding behavior analysis, able to tether aphids and psyllids for technique, whiteflies a work in progress. 
