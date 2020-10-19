@@ -9,7 +9,10 @@ description: |
 * __2011 - 2015__
 * University of California, Irvine
 * Advisors: Dr. Sergio Rasmann and Dr. Kailen Mooney
-* Research topic: Here's some stuff about my undergrad projs. 
+* Research topics: 1) Genetic variation in induced and constitutive plant chemical defenses. 2)
+Tri-trophic interactions between chemically defended Canola plants, aphid herbivores and
+parasitoid wasps (predators). 
+ 
 * Minor: Anthropology
 
 
