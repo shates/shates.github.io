@@ -1,1 +1,11 @@
-awards & honors
+---
+layout: default
+img: clip.png
+category: Awards
+title: "Awards, honors, & grants"
+description: |
+---
+
+1. awards
+2. honors
+3. grants
