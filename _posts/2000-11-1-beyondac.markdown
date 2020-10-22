@@ -1,7 +1,7 @@
 ---
 layout: default
 img: clip.png
-category: Beyond Academics
+category: beyond
 title: "Service, outreach, and extra"
 description: |
 ---
