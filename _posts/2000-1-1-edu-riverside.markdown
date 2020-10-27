@@ -2,7 +2,7 @@
 layout: default
 img: squash.png
 category: Education
-title: PhD in Entomology
+title: PhD Candidate in Entomology
 description: 2016-Present
 ---
 
