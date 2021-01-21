@@ -2,8 +2,6 @@
 layout: default
 img: squash.png
 category: Education
-title:
-description: 
 ---
 
 
