@@ -30,6 +30,9 @@ social:
   - icon: file-pdf-o
     title: CV
     url: img/JuliaShatesCV.pdf
+  - icon: envelope-o
+    title: email
+    url: mailto:shates@wisc.edu
   - icon: twitter
     title: twitter
     url: https://twitter.com/jshates
