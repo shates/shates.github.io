@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.tshates.github.io
-title: Tessa Shates
-email: tshat003@ucr.edu
-author: Tessa Shates
-description: "Tessa's Personal Page"
+url: http://www.shates.github.io
+title: Julia Shates
+email: shates@wisc.edu
+author: Julia Shates
+description: "Julia's Personal Page"
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -26,17 +26,11 @@ gems:
 social:
   - icon: github
     title: github
-    url: https://github.com/tshates
-  - icon: envelope-o
-    title: email
-    url: mailto:tshat003@ucr.edu
-  - icon: linkedin
-    title: linkedin
-    url: https://www.linkedin.com/in/tessa-shates-234347b9/
+    url: https://github.com/shates
   - icon: file-pdf-o
     title: CV
-    url: img/TessaShatesCV.pdf
+    url: img/JuliaShatesCV.pdf
   - icon: twitter
     title: twitter
-    url: https://twitter.com/TShates
+    url: https://twitter.com/jshates
 
