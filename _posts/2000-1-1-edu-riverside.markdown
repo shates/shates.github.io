@@ -2,17 +2,17 @@
 layout: default
 img: squash.png
 category: Education
-title: PhD Student in Atmospheric and Oceanic Sciences
-description: 2017-Present
+title:
+description: 
 ---
 
-* __2017 - Present__
-* University of Wisconsin-Madison
-* snowfall*
 
 
-Research areas/interests 
-1. 
-2. 
-3.  
- 
+
+__University of Wisconsin-Madison__
+* 2017 - Present
+
+
+__University of California, Irvine___
+* 2011 - 2015
+
