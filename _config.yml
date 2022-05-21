@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Julia Shates"
-  avatar           : "profile.png"
-  bio              : "atmospheric science"
-  location         : "Location"
+  avatar           : "covatar.png"
+  bio              : "rain, snow, radar"
+  location         : "Madison, WI"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lgEP5NwAAAAJ&hl=en&oi=ao"
   email            :
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
