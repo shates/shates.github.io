@@ -10,7 +10,7 @@ redirect_from:
 
 Words describing 
 Example: using a figure
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/fast_ice.png)
 
 Another subsection
 ------
