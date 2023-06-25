@@ -14,15 +14,9 @@ I am a PhD student in atmospheric science researching clouds and precipitation i
 
 # Education
 <img src="/images/fast_ice.png"  width="200" style="float: right; margin-right: 15px;"> 
-#### University of Wisconsin-Madison  
-
- * Atmospheric and Oceanic Sciences (PhD) *2019-present*
-  
- * Atmospheric and Oceanic Sciences (MS)   
-  
-  
-#### University of California, Irvine
-
-*  Earth System Science (BS)
-  
- * Spanish (BA)
+#### University of Wisconsin-Madison  <br>
+Atmospheric and Oceanic Sciences (PhD) *2019-present* <br>
+Atmospheric and Oceanic Sciences (MS)   <br>
+#### University of California, Irvine <br>
+Earth System Science (BS)<br>
+Spanish (BA)
