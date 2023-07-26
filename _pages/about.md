@@ -25,5 +25,5 @@ Spanish (BA)
 
 ## Research Highlights
 <img src="/images/shates_highlight_hauk_kir.png"  width="400" style="float: left; margin-left: 15px;"> 
-<br> <br> <br>
+ *** 
 <img src="/images/shates_highlight_mqt.png"  width="400" style="float: left; margin-left: 15px;"> 
