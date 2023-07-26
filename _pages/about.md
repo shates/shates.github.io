@@ -23,5 +23,5 @@ Atmospheric and Oceanic Sciences (MS)   <br>
 Earth System Science (BS)<br>
 Spanish (BA)
 
-## Research
+## Research Highlights
 <img src="/images/shates_highlight_mqt.png"  width="400" style="float: left; margin-left: 15px;"> 
