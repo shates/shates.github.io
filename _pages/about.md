@@ -24,4 +24,4 @@ Earth System Science (BS)<br>
 Spanish (BA)
 
 ## Research
-<img src="/images/shates_highlight_mqt.png"  width="400" style="float: right; margin-right: 15px;"> 
+<img src="/images/shates_highlight_mqt.png"  width="400" style="float: left; margin-left: 15px;"> 
