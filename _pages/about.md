@@ -10,7 +10,7 @@ redirect_from:
 
 
 <img src="/images/mqt_2022.gif"  width="200" style="float: right; margin-right: 15px;"> 
-In my PhD research, I worked on research on clouds and precipitation in the mid and high latitudes. I am especially interested in clouds and precipitation near the surface, which can be difficult to observe from space-based radars because of ground clutter. My research uses ground-based remote sensing observations from multi-instrument suites to study precipitation falling within this ***Satellite Radar Blind Zone***. I am advised by 
+I am a JPL postdoctoral fellow working on cloud microphyics. In my PhD research, my research examined clouds and precipitation in the mid and high latitudes. I am especially interested in clouds and precipitation near the surface, which can be difficult to observe from space-based radars because of ground clutter. My research uses ground-based remote sensing observations from multi-instrument suites to study precipitation falling within this ***Satellite Radar Blind Zone***. I am advised by 
 <a href="https://pettersen.engin.umich.edu/">Dr. Claire Pettersen</a> and 
 <a href="https://lecuyer.aos.wisc.edu/">Dr. Tristan L'Ecuyer</a>. 
 
