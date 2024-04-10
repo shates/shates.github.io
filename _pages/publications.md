@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Ochwat, N.E., Scambos, T.A., Banwell, A.F., Anderson, R.S., Maclennan, M.L., Picard, G., **Shates, J. A.**, Marinsek, S., Margonari, L., Truffer, M. and Pettit, E.C., Triggers of the 2022 Larsen B multi-year landfast sea ice break-out and initial glacier response. The Cryosphere Discussions, 1-34. [10.5194/tc-2023-88](https://tc.copernicus.org/preprints/tc-2023-88/) *(in review)*
+Ochwat, N.E., Scambos, T.A., Banwell, A.F., Anderson, R.S., Maclennan, M.L., Picard, G., **Shates, J. A.**, Marinsek, S., Margonari, L., Truffer, M. and Pettit, E.C., (2024). Triggers of the 2022 Larsen B multi-year landfast sea ice break-out and initial glacier response. , The Cryosphere, 18, 1709–1731, [10.5194/tc-18-1709-2024](https://tc.copernicus.org/preprints/tc-2023-88/](https://tc.copernicus.org/articles/18/1709/2024/)
 
 **Shates, J. A.**, Pettersen, C., L’Ecuyer, T. S., Kulie, M. S., (2023). Multi-year analysis of rain-snow levels at Marquette, Michigan. Journal of Geophysical Research: Atmospheres, 128, doi: [10.1029/2022JD037132](https://doi.org/10.1029/2022JD037132)
 
