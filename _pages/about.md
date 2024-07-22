@@ -10,7 +10,10 @@ redirect_from:
 
 
 <img src="/images/mqt_2022.gif"  width="200" style="float: right; margin-right: 15px;"> 
-I am a JPL postdoctoral fellow working on cloud microphyics. In my PhD research, my research examined clouds and precipitation in the mid and high latitudes. I am especially interested in clouds and precipitation near the surface, which can be difficult to observe from space-based radars because of ground clutter. My research uses ground-based remote sensing observations from multi-instrument suites to study precipitation falling within this ***Satellite Radar Blind Zone***. I was advised by 
+I am a JPL postdoctoral fellow working on ice cloud microphyics. I am especially interested in ice cloud properties such as particle habit and how different environments produce unique microphysics. To explore clouds in varying environments (including convective storms and winter snowfall), I use observations from air-craft field campaigns, which sampled cloud properties with collocated remote sensing observations.
+
+
+In my PhD research, my research examined clouds and precipitation in the mid and high latitudes. Specifically, I focused on snowing clouds that can be difficult to observe from space-based radars because of ground clutter. My research uses ground-based remote sensing observations from multi-instrument suites to study precipitation falling within this ***Satellite Radar Blind Zone***. I was advised by 
 <a href="https://pettersen.engin.umich.edu/">Dr. Claire Pettersen</a> and 
 <a href="https://lecuyer.aos.wisc.edu/">Dr. Tristan L'Ecuyer</a>. 
 
