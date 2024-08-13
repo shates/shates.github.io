@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Xie, Y., Pettersen, C., Flanner, M., **Shates, J.**, (2024). Ground‐Observed Snow Albedo Changes During Rain‐On‐Snow Events in Northern Alaska., Journal of Geophysical Research: Atmospheres, 129, doi: [10.1029/2024JD040975](https://doi.org/10.1029/2024JD040975)
+
+
 
 Ochwat, N.E., Scambos, T.A., Banwell, A.F., Anderson, R.S., Maclennan, M.L., Picard, G., **Shates, J. A.**, Marinsek, S., Margonari, L., Truffer, M. and Pettit, E.C., (2024). Triggers of the 2022 Larsen B multi-year landfast sea ice break-out and initial glacier response. , The Cryosphere, 18, 1709–1731,doi: [10.5194/tc-18-1709-2024](https://tc.copernicus.org/articles/18/1709/2024/)
 
