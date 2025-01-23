@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-Fraser, K., Pettersen, C., Dolan, B., **Shates, J.**, Posselt, D., (2024). Primary Modes of Northern
+King, F., Pettersen, C., Dolan, B., **Shates, J.**, Posselt, D., (2024). Primary Modes of Northern
 Hemisphere Snowfall Particle Size Distributions, Journal of Atmospheric Sciences, doi:[10.1175/JAS-D-24-0076.1](https://doi.org/10.1175/JAS-D-24-0076.1)
 
 
