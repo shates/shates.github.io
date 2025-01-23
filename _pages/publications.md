@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Fraser, K., Pettersen, C., Dolan, B., **Shates, J.**, Posselt, D., Primary Modes of Northern
+Hemisphere Snowfall Particle Size Distributions, Journal of Atmospheric Sciences, doi:[10.1175/JAS-D-24-0076.1](https://doi.org/10.1175/JAS-D-24-0076.1)
+
+
+
 Xie, Y., Pettersen, C., Flanner, M., **Shates, J.**, (2024). Ground‐Observed Snow Albedo Changes During Rain‐On‐Snow Events in Northern Alaska., Journal of Geophysical Research: Atmospheres, 129, doi: [10.1029/2024JD040975](https://doi.org/10.1029/2024JD040975)
 
 
