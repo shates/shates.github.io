@@ -4,6 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Shates, J. A.**, Pettersen, C., L’Ecuyer T. S., Kulie, M. S., KAZR-CloudSat analysis of
+snowing profiles at the North Slope of Alaska: implications of the satellite radar blind
+zone, (2025). Journal of Geophysical Research: Atmospheres, 130, doi:[10.1029/2024JD042700](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042700)
+
+
 King, F., Pettersen, C., Dolan, B., **Shates, J.**, Posselt, D., (2024). Primary Modes of Northern
 Hemisphere Snowfall Particle Size Distributions, Journal of Atmospheric Sciences, doi:[10.1175/JAS-D-24-0076.1](https://doi.org/10.1175/JAS-D-24-0076.1)
 
