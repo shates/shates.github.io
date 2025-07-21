@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a JPL postdoctoral fellow working on ice cloud microphyics. I am especially interested in ice cloud properties such as particle habit and how different environments produce unique microphysics. To explore clouds in varying environments (including convective storms and winter snowfall), I use observations from air-craft field campaigns, which sampled cloud properties with collocated remote sensing observations.
+From winter storms to deep convection, my work seeks to investigate cloud and precipitation processes using multi-instrument perspectives.  Currently, I am a JPL Postdoctoral Fellow in the Atmospheric Physics and Weather Group. For my research, I am exploring ice cloud properties in convective weather events from aircraft field campaign data including in-situ probe and radar remote sensing observations. In this study, we're using a forward model to test how microphysical assumptions about ice particle habit influence simulated reflectivities, which is important for informing retrieval development and data assimulation. This research is connected to satellite radar missions such as the INvestigation of Convective UpdraftS (**INCUS**), as well as future missions that will feature space-borne radars observing clouds, convection, and precipitation.
+
+
+
 
 <img src="/images/mqt_2022.gif"  width="200" style="float: right; margin-right: 15px;"> 
 In my PhD research, my research examined clouds and precipitation in the mid and high latitudes. Specifically, I focused on snowing clouds that can be difficult to observe from space-based radars because of ground clutter. My research uses ground-based remote sensing observations from multi-instrument suites to study precipitation falling within this ***Satellite Radar Blind Zone***. I was advised by 
