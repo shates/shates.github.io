@@ -14,7 +14,7 @@ From winter storms to deep convection, my work seeks to investigate cloud and pr
 
 
 <img src="/images/mqt_2022.gif"  width="200" style="float: right; margin-right: 15px;"> 
-In my PhD research, I used ground-based and space-based observations to examine clouds and precipitation at mid and high-latitudes sites. While there are near-global observations of clouds and preciptiation from space-based remote sensing, ground clutter makes observations near the surface less reliable resulting in a ***Satellite Radar Blind Zone***. My research was focused on using ground-based observations to characterize unique precipitation regimes and assess satellite detectability. Using snowfall events detected by ground-based radar, we collocated to CloudSat observations expand from ground-based to satellite-based perspectives. I was advised by 
+In my PhD research, I used ground-based and space-based observations to examine clouds and precipitation at mid and high-latitudes sites. While there are near-global observations of clouds and preciptiation from space-based remote sensing, ground clutter makes observations near the surface less reliable resulting in a *Satellite Radar Blind Zone*. My research was focused on using ground-based observations to characterize unique precipitation regimes and assess satellite detectability. Using snowfall events detected by ground-based radar, we collocated to CloudSat observations to expand from ground-based to include satellite-based perspectives. I was advised by 
 <a href="https://pettersen.engin.umich.edu/">Dr. Claire Pettersen</a> and 
 <a href="https://lecuyer.aos.wisc.edu/">Dr. Tristan L'Ecuyer</a>. 
 
