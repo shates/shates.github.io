@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Richter, J., Pettersen, C., Moisseev, D., **Shates, J.**, King, F., Macro- and Microphysical Properties of Atmospheric River Snowfall: Results from Two Instrument Sites, Journal of Applied Meteorology and Climatology, doi:[10.1175/JAMC-D-24-0220.1](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JD042700](https://journals.ametsoc.org/view/journals/apme/aop/JAMC-D-24-0220.1/JAMC-D-24-0220.1.xml)
+Richter, J., Pettersen, C., Moisseev, D., **Shates, J.**, King, F., Macro- and Microphysical Properties of Atmospheric River Snowfall: Results from Two Instrument Sites, Journal of Applied Meteorology and Climatology, doi:[10.1175/JAMC-D-24-0220.1](https://journals.ametsoc.org/view/journals/apme/aop/JAMC-D-24-0220.1/JAMC-D-24-0220.1.xml)
 
 **Shates, J. A.**, Pettersen, C., L’Ecuyer T. S., Kulie, M. S., KAZR-CloudSat analysis of
 snowing profiles at the North Slope of Alaska: implications of the satellite radar blind
