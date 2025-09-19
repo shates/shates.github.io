@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-King, F., Pettersen, C., Dolan, B., **Shates, J.**, Posselt, D., (2025). Decoding global precipitation processes and particle evolution using unsupervised learning, Science Advances, doi:[10.1175/JAS-D-24-0076.1][10.1126/sciadv.adu0162](https://doi.org/10.1126/sciadv.adu0162)
+King, F., Pettersen, C., Dolan, B., **Shates, J.**, Posselt, D., (2025). Decoding global precipitation processes and particle evolution using unsupervised learning, Science Advances, doi:[10.1126/sciadv.adu0162](https://doi.org/10.1126/sciadv.adu0162)
 
 Richter, J., Pettersen, C., Moisseev, D., **Shates, J.**, King, F., (2025). Macro- and Microphysical Properties of Atmospheric River Snowfall: Results from Two Instrument Sites, Journal of Applied Meteorology and Climatology, doi:[10.1175/JAMC-D-24-0220.1](https://journals.ametsoc.org/view/journals/apme/aop/JAMC-D-24-0220.1/JAMC-D-24-0220.1.xml)
 
