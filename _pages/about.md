@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-From winter storms to deep convection, my work seeks to investigate cloud and precipitation processes using multi-instrument perspectives.  Currently, I am a JPL Postdoctoral Fellow in the <a href="https://science.jpl.nasa.gov/division/earth-science/atmospheric-physics-and-weather/">Atmospheric Physics and Weather Group</a>. For my research, I am exploring ice cloud properties in convective weather events from aircraft field campaign data including in-situ probe and radar remote sensing observations. In this study, we're using a forward model to test how microphysical assumptions about ice particle habit influence simulated reflectivities, which is important for informing retrieval development and data assimulation. This research is connected to satellite radar missions such as the INvestigation of Convective UpdraftS (**INCUS**), as well as future missions that will feature space-borne radars observing clouds, convection, and precipitation.
+From winter storms to deep convection, my work seeks to investigate cloud and precipitation processes using multi-instrument perspectives.  Currently, I am a JPL Postdoctoral Fellow in the <a href="https://science.jpl.nasa.gov/division/earth-science/atmospheric-physics-and-weather/">Atmospheric Physics and Weather Group</a>. For my research, I am exploring ice cloud properties in convective weather events from aircraft field campaign data including in-situ probe and radar remote sensing observations. In this study, we're using a forward model to test how microphysical assumptions about ice particle habit influence simulated reflectivities, which is important for informing retrieval development and data assimulation. This research is connected to satellite radar missions such as the INvestigation of Convective UpdraftS (<a href="https://incus.colostate.edu/">INCUS</a>), as well as future missions that will feature space-borne radars observing clouds, convection, and precipitation.
+
+
 
 
 
