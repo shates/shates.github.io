@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Shates, J. A.**, Posselt, D. J., Lebsock, M. D., Finlon, J. A., McFarquhar, G. M., Heymsfield, A. J., (2026). Ice in Convective Storm Environments: Assessing the Impacts of Microphysics on Simulated Reflectivities, Journal of Atmospheric and Oceanic Technology, doi:[10.1175/JTECH-D-25-0125.1](https://doi.org/10.1029/2024JD042700)
+**Shates, J. A.**, Posselt, D. J., Lebsock, M. D., Finlon, J. A., McFarquhar, G. M., Heymsfield, A. J., (2026). Ice in Convective Storm Environments: Assessing the Impacts of Microphysics on Simulated Reflectivities, Journal of Atmospheric and Oceanic Technology, doi:[10.1175/JTECH-D-25-0125.1](https://doi.org/10.1175/JTECH-D-25-0125.1)
 
 King, F., Pettersen, C., Dolan, B., **Shates, J.**, Posselt, D., (2025). Decoding global precipitation processes and particle evolution using unsupervised learning, Science Advances, doi:[10.1126/sciadv.adu0162](https://doi.org/10.1126/sciadv.adu0162)
 
