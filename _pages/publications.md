@@ -32,3 +32,12 @@ Pettersen, C., Bliven, L.F., Kulie, M.S., Wood, N.B., **Shates, J.A.**, Anderson
 
 </div>
 <!-- The scroll container ends here -->
+
+
+
+## Research Highlights
+<img src="/images/shates_highlight_hauk_kir.png"  width="400" style="float: left; margin-left: 15px;"> 
+<br>
+<hr>
+<br>
+<img src="/images/shates_highlight_mqt.png"  width="400" style="float: left; margin-left: 15px;"> 
