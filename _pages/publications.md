@@ -36,8 +36,8 @@ Pettersen, C., Bliven, L.F., Kulie, M.S., Wood, N.B., **Shates, J.A.**, Anderson
 
 
 ## Research Highlights
-<img src="/images/shates_highlight_hauk_kir.png"  width="500" style="float: left; margin-left: 15px;"> 
+<img src="/images/shates_highlight_hauk_kir.png"  width="700" style="float: left; margin-left: 15px;"> 
 <br>
 <hr>
 <br>
-<img src="/images/shates_highlight_mqt.png"  width="500" style="float: left; margin-left: 15px;"> 
+<img src="/images/shates_highlight_mqt.png"  width="700" style="float: left; margin-left: 15px;"> 
